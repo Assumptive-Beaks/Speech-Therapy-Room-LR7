@@ -1,3 +1,5 @@
-BGM: Mubert
-
-Visuals: Gemini
+Technologies Used
+Python
+pygame
+ChatGPT
+Mubert
